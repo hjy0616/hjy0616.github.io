@@ -4,7 +4,8 @@ image: /assets/img/blog/hydejack-9.jpg
 description: >
   블록체인을 공부하고 있는 블록체인 개발자입니다.
 hide_description: true
-
+redirect_from:
+  - /download/
 ---
 
 # About
