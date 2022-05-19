@@ -20,7 +20,7 @@ url:                   https://hjy0616.github.io
 lang:                  ko-KR, en-US
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 개발자 초보 탈출
+title:                 개발자 초보 탈출하기
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
@@ -87,7 +87,7 @@ paginate_path:         /:num/
 # Theme
 # ---------------------------------------------------------------------------------------
 
-# theme: jekyll-theme-hydejack
+theme: jekyll-theme-hydejack
 remote_theme: hydecorp/hydejack@v9
 
 
@@ -428,3 +428,13 @@ jekyll_compose:
       links:
         - title: Project Link
           url: https://example.com
+
+          
+tipue_search:
+  include:
+    pages: false
+    collections: []
+  exclude:
+    files: []
+    categories: []
+    tags: []
