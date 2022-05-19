@@ -1,6 +1,6 @@
 ---
 layout: about
-image: /assets/img/blog/hydejack-9.jpg
+image: /assets/img/me/이더리움 logo.jpg
 description: >
   블록체인을 공부하고 있는 블록체인 개발자입니다.
 hide_description: true
