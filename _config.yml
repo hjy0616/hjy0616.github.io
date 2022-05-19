@@ -37,7 +37,7 @@ keywords:              [blockchain devaloper, security, aws cloud, devops]
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
-logo:                  /assets/img/me/이더리움 logo.png
+logo:                  /assets/img/me/logo.jpg
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
@@ -81,7 +81,7 @@ paginate_path:         /:num/
 # Theme
 # ---------------------------------------------------------------------------------------
 
-# theme: jekyll-theme-hydejack
+theme: jekyll-theme-hydejack
 remote_theme: hydecorp/hydejack@v9
 
 
