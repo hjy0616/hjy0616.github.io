@@ -13,7 +13,7 @@ hide_description: true
 <span style="font-size:170%;font-weight:bold"> 황정연
 </span>
 </center>
-<center>MAJOR : blockchain devaloper</center>
+<center>MAJOR : blockchain developer</center>
 <center>Incheon Polytechnic University</center>
 <center>Mapo-gu, Sangam-dong, Seoul, Republic of Korea</center>
 
@@ -24,7 +24,7 @@ hide_description: true
 ---
 > Mar.20xx ~ Feb.20xx xx 인천폴리텍대학교
 >
-> 정보통신 (Department of Information and Communication)
+> 정보통신 (Computer Systems Networking and Telecommunications)
 
 ## Research Interest
 ---
