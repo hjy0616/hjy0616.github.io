@@ -1,6 +1,6 @@
 ---
 layout: about
-image: /assets/img/me/logo.jpg
+image: /assets/img/me/logo1.png
 description: >
   블록체인을 공부하고 있는 블록체인 개발자입니다.
 hide_description: true
