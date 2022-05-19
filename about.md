@@ -2,11 +2,9 @@
 layout: about
 image: /assets/img/blog/hydejack-9.jpg
 description: >
-  A boutique Jekyll theme for hackers, nerds, and academics,
-  with a focus on personal sites that are meant to impress.
+  블록체인을 공부하고 있는 블록체인 개발자입니다.
 hide_description: true
-redirect_from:
-  - /download/
+
 ---
 
 # About
