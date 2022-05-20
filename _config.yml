@@ -20,7 +20,7 @@ url:                   https://hjy0616.github.io
 lang:                  ko-KR, en-US
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 개발자 초보 탈출하기
+title:                 just do it
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
@@ -37,7 +37,7 @@ keywords:              [blockchain developer, security, aws cloud, devops]
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
-logo:                  /assets/img/me/logo.jpg
+logo:                  /assets/img/me/logo1.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
@@ -87,7 +87,7 @@ paginate_path:         /:num/
 # Theme
 # ---------------------------------------------------------------------------------------
 
-theme: jekyll-theme-hydejack
+# theme: jekyll-theme-hydejack
 remote_theme: hydecorp/hydejack@v9
 
 
