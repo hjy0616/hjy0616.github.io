@@ -1,10 +1,10 @@
 ---
 layout: list
-category: subcat
-bigtitle: Test2
-slug: test2
+category: study
+bigtitle: AWS
+slug: aws
 description: >
-  하위메뉴 테스트1
+  AWS cloud or DevOps, Security Study
 
 related_posts:
     - 

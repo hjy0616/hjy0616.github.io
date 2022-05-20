@@ -9,12 +9,19 @@ hide_description: true
 # About
 <!--author-->
 
+* * *
 <center>
-<span style="font-size:170%;font-weight:bold"> 황정연
+<span style=
+"font-size:170%;
+font-weight:bold"> 
+황정연
 </span>
 </center>
+
 <center>MAJOR : blockchain developer</center>
+
 <center>Incheon Polytechnic University</center>
+
 <center>Mapo-gu, Sangam-dong, Seoul, Republic of Korea</center>
 
 ## Personal Data

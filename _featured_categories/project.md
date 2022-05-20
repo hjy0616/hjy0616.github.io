@@ -3,14 +3,14 @@
 layout: list
 
 # The title of the tag's page.
-title: Example2
+title: Project
 
 # The name of the tag, used in a post's front matter (e.g. tags: [<slug>]).
-slug: example2
+slug: project
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
-  test2 예시
+ project notes
 
 # (Optional) You can disable grouping posts by date.
 # no_groups: true

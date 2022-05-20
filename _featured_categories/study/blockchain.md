@@ -1,10 +1,10 @@
 ---
 layout: list
-category: subcat
-bigtitle: Test1
-slug: test1
+category: study
+bigtitle: Blockchain
+slug: blockchain
 description: >
-  하위메뉴 테스트1
+  blockchain study
 
 related_posts:
     - 

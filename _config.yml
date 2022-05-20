@@ -51,23 +51,19 @@ author:
 menu:
   - title:             About
     url:               /about/
-  - title:             Example1
-    url:               /example1/
-  - title:             Example2
-    url:               /example2/
+  - title:             Posts
+    url:               /posts/
+  - title:             Project
+    url:               /project/
+  - title:             Study
+    url:               /study/
     submenu:
       - title:         Blockchain
         url:           /blockchain/
       - title:         AWS
         url:           /aws/
-
-  - title:             Subcat
-    url:               /subcat/
-    submenu:
-      - title:         test1
-        url:           /test1/
-      - title:         test2
-        url:           /test2/
+      - title:         Languages
+        url:           /languages/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
@@ -93,7 +89,7 @@ paginate_path:         /:num/
 # Theme
 # ---------------------------------------------------------------------------------------
 
-# theme: jekyll-theme-hydejack
+theme: jekyll-theme-hydejack
 remote_theme: hydecorp/hydejack@v9
 
 

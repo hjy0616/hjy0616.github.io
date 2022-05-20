@@ -3,14 +3,14 @@
 layout: list
 
 # The title of the tag's page.
-title: Example1
+title: Study
 
 # The name of the tag, used in a post's front matter (e.g. tags: [<slug>]).
-slug: example1
+slug: study
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
-  test 예시
+  Study
 
 # (Optional) You can disable grouping posts by date.
 # no_groups: true
@@ -19,3 +19,14 @@ description: >
 # DON'T USE THIS SETTING IN YOUR CATEGORIES!
 sitemap: false
 ---
+
+#### 카테고리
+
+* [Blockchain]{:.heading.flip-title} --- blockchain(hyperledger, ethereum)
+* [AWS]{:.heading.flip-title} --- AWS(cloud DevOps, Security)
+* [Languages]{:.heading.flip-title} --- languages(hyperledger, ethereum)
+
+
+[Blockchain]: /blockchain/
+[AWS]: /AWS/
+[Languages]: /languages/
