@@ -24,7 +24,7 @@ sitemap: false
 
 * [Blockchain]{:.heading.flip-title} --- blockchain(hyperledger, ethereum)
 * [AWS]{:.heading.flip-title} --- AWS(cloud DevOps, Security)
-* [Languages]{:.heading.flip-title} --- languages(hyperledger, ethereum)
+* [Languages]{:.heading.flip-title} --- languages(golang, nodejs, javascript, soledity)
 
 
 [Blockchain]: /blockchain/
