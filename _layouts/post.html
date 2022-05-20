@@ -34,6 +34,8 @@ layout: base
 {% assign addons = page.addons | default:site.hydejack.post_addons %}
 {% unless addons %}{% assign addons = "about,newsletter,related,random" | split:"," %}{% endunless %}
 
+{% include_cached components/about.html author=page.author %}
+
 <!-- <script>console.log("{{addons}}"); console.log("{{page.addons}}"); console.log("{{site.hydejack.post_addons}}")</script> -->
 {% for addon in addons %}
   {% case addon %}
@@ -42,7 +44,7 @@ layout: base
   {% when 'related' %}
     {% include components/related-posts.html %}
   {% when 'comments' %}
-    {% include my-comments.html %}
+    {% include componetscomments.html %}
   {% else %}
   {% endcase %}
 {% endfor %}
