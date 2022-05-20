@@ -26,10 +26,10 @@ Github pages 블로그를 운영하는 중입니다.💻
 <!-- 저에게 조금 관심이 생기셨다면 [CV](/assets/CV.pdf)를 확인해주시면 감사하겠습니다! 😃 -->
 
 <div class="me">
-    <div><img src= "/assets/img/me/1.jpg"></div>
-    <div><img src= "/assets/img/me/2.jpg"></div>
-    <div><img src= "/assets/img/me/3.jpg"></div>
-    <div><img src= "/assets/img/me/4.jpg"></div>
+    <div><img src= "/assets/img/me/1.jpg" style="width: 1000px; height: 500px;"></div>
+    <div><img src= "/assets/img/me/2.jpg" style="width: 1000px; height: 500px;"></div>
+    <div><img src= "/assets/img/me/3.jpg" style="width: 1000px; height: 500px;"></div>
+    <div><img src= "/assets/img/me/4.jpg" style="width: 1000px; height: 500px;"></div>
 </div>
 
   <script>
