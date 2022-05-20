@@ -55,6 +55,12 @@ menu:
     url:               /example1/
   - title:             Example2
     url:               /example2/
+    submenu:
+      - title:         Blockchain
+        url:           /blockchain/
+      - title:         AWS
+        url:           /aws/
+
   - title:             Subcat
     url:               /subcat/
     submenu:
@@ -87,7 +93,7 @@ paginate_path:         /:num/
 # Theme
 # ---------------------------------------------------------------------------------------
 
-# theme: jekyll-theme-hydejack
+theme: jekyll-theme-hydejack
 remote_theme: hydecorp/hydejack@v9
 
 
@@ -177,7 +183,7 @@ kramdown:
 
 # Set your Google Analytics id to receive `pageview` events.
 # To remove Google Anaylics from your page, remove the line below.
-# google_analytics:      UA-XXXXXXXX-X
+google_analytics:      G-D11VGJWXGT
 
 # Setting a disqus shortname will enable the comment section on
 # pages with `comments: true` in the front matter.
