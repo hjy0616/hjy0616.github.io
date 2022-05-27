@@ -13,7 +13,7 @@ hide_description: true
 <center>
 <span style=
 "font-size:170%;
-font-weight:bold"> 
+font-weight:bold">
 황정연
 </span>
 </center>
@@ -51,6 +51,6 @@ Currently at work
 
 ## Skills and Certification
 ----
-- Language : Python, golang, nodejs, soladity
+- Language : Python, golang, nodejs, solidity
 - FrameWork: Ethereum, Hyperledger-Fabric
 - Certification : AWS Certified Solutions Architect Associate
