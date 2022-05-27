@@ -16,6 +16,9 @@ categories:
 - 스크립트 언어
 - 문장과 문장을 구분하기 위해 세미콜론 ; 사용
 
+* toc
+{:toc .large-only}
+
 ## 작성 시
 ~~~
 <script> </script> 태그 안에 작성
