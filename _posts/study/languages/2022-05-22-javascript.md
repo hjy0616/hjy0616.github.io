@@ -35,7 +35,7 @@ categories:
 - input태그를 통해 type을 지정가능 value에 안에있는 내용 작성이 가능
 - alert을 통해 경고창 이벤트 발생
 - 각 속성은 속성에 맞게 이벤트 발생
-* https://www.w3schools.com/tags/ev_onkeydown.asp 참고 URL
+* [참고 URL](https://www.w3schools.com/tags/ev_onkeydown.asp)
 ~~~
 <input type="button" value="hi" onclick="alert('hi')">
 <input type="text" onchange="alert('changed')">
@@ -46,6 +46,7 @@ categories:
 - var 키워드로 선언하는 방법과 var 없이 선언이 가능
 - 자바스크립트에는 변수 타입이 없다.
 - //, /**/은 주석
+
 ~~~JavaScript
 /////var 키워드 선언
 var test;
@@ -101,6 +102,7 @@ this.y = 100; // 전역변수 y에 100저장
 - 기본으로 알고있는 + - * / %
 - /가 나누기 %가 나머지다
 - 연산의 결과는 항상 실수로 나온다.
+
 ~~~JavaScript
 var x = 100;
 var y = 100 + x*2/4 - 3;
@@ -157,6 +159,7 @@ document.write("x%2 = " + total + "<br>");
 
 
 ### 조건 연산자
+
 ~~~JavaScript
 var x=10 , y=8;
 var total = (x>y) ? x : y; //x > y가 true라면 x 값 10가 total에 대입
@@ -189,6 +192,7 @@ x = "F";
 ### switch
 - 값에 따라서 서로 다른 코드를 실행해줄때 Switch문을 사용
 - break를 사용하면 break문을 만날때까지 코드 실행
+
 ~~~JavaScript
 var day="월";
 switch(day) {
@@ -238,6 +242,7 @@ document.write(addNum(2, 3));
   - 자바스크립트로 브라우저를 제어하기 위해 사용하는 객체
   - 비표준 객체
   + 객체 접근을 위해 .(점) 연산자 이용
+
 ~~~
 test.property = value; //이런식
 ~~~
@@ -245,6 +250,7 @@ test.property = value; //이런식
 ## 배열
 - 여러개의 원소들을 연속적으로 저장
 - 전체를 하나의 단위로 다루는 데이터 구조
+
 ~~~javascript
 var test = ["hi", "test", "test1"];
 var name = test[0]; //name에 test배열 0번째 자리 들어감
@@ -256,6 +262,7 @@ test[1] = "test2"; //test자리에 test2 저장
   - []로 배열 만들기
   - Array 객체로 배열만들기
 - 배열의 크기는 고정되지 않고 추가 시 늘어난다
+
 ~~~javascript
 var test = new Array("a", "b", "c", "d");
 ~~~
