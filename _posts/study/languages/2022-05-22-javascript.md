@@ -50,7 +50,7 @@ categories:
 - 자바스크립트에는 변수 타입이 없다.
 - //, /**/은 주석
 
-~~~JavaScript
+~~~javascript
 /////var 키워드 선언
 var test;
 var test1 = 112;
@@ -70,7 +70,7 @@ hi = "hi";
 - 지역변수 : 함수 내에 var 키워드 선언, 선언된 함수 내에서만 사용
 - 전역변수 : 함수 밖에 선언되거나 함수 내에 var 키워드 없이 선언, 프로그램 전역에서 사용
 
-~~~JavaScript
+~~~javascript
 var x; //지역변수
 function g() {
   var y; //지역변수 y선언
@@ -80,7 +80,7 @@ function g() {
 
 ### this 키워드로 전역변수 접근가능
 
-~~~JavaScript
+~~~javascript
 var y; // 전역변수
 function x() {
 var u; // 지역변수
@@ -106,7 +106,7 @@ this.y = 100; // 전역변수 y에 100저장
 - /가 나누기 %가 나머지다
 - 연산의 결과는 항상 실수로 나온다.
 
-~~~JavaScript
+~~~javascript
 var x = 100;
 var y = 100 + x*2/4 - 3;
 var z = x / 10;
@@ -163,7 +163,7 @@ document.write("x%2 = " + total + "<br>");
 
 ### 조건 연산자
 
-~~~JavaScript
+~~~javascript
 var x=10 , y=8;
 var total = (x>y) ? x : y; //x > y가 true라면 x 값 10가 total에 대입
 // false라면 8 대입
@@ -176,7 +176,7 @@ var total = (x>y) ? x : y; //x > y가 true라면 x 값 10가 total에 대입
 ### if
 - ~ 라면 출력값 형태
 
-~~~JavaScript
+~~~javascript
 var x;
 var y = prompt("점수를 입력하세요", 100);
 y = parseInt(y); // 문자열을 숫자로 바꿈
@@ -196,7 +196,7 @@ x = "F";
 - 값에 따라서 서로 다른 코드를 실행해줄때 Switch문을 사용
 - break를 사용하면 break문을 만날때까지 코드 실행
 
-~~~JavaScript
+~~~javascript
 var day="월";
 switch(day) {
 case "월":
@@ -215,7 +215,7 @@ break;
 - 하나의 특별한 목적의 작업을 수행하도록 설계된 독립적인 블록
 - 필요할때마다 호출해서 사용 가능
 
-~~~JavaScript
+~~~javascript
 function addNum(x, y) {
     return x + y;
 }
